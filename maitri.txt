@@ -1,0 +1,198 @@
+                                                           Q-1
+<html>
+<head><title>MAITRI ASSIGNMENT</title>
+  </head>
+<body> <body bgcolor="purple">  
+  
+<h1>  <font color="yellow"><b> bold </b> </h1>
+ 
+   <h1> <i> Italic </i> </h1>
+
+  <h1> <u> Underline </u> </h1>
+  <p><font color="white"> <font> parragraph, <br> This is assignment of COMPUTER NETWORKING .
+</br>
+ </font> </p>
+
+ <font size= "+4"> Increase font size </font>
+
+<hr width="100%"color="#ff0000"size="6"/>
+<blink>
+<marquee  width="300" scrollamount="300" scrolhiding="500" loop="100"> Computer </marquee>
+ </blink>
+</body>
+    
+                                                                Q-2
+ <html>
+ <head>
+  <title> ASSIGNMENT MAITRI </title>
+ </head>
+ <body>
+  <h1> PYTHON </h1>
+  <UL>
+     <LI> Matplotlib 
+     <LI> Numpy
+     <LI> Pandas 
+     <LI> Anaconda
+  </UL>
+  <img src="https://tse2.mm.bing.net/th?id=OIP.AsyOAYIeg6OjdK3oahgebQHaE8&pid=Api&P=0&w=228&h=153" ><br/>
+  <h2> MOBILE </h2>
+  <OL TYPE="1">
+     <LI> Samsung
+     <LI> Oneplus
+     <LI> Realme 
+     <LI> Readme
+  </OL>
+  <a href="https://en.wikipedia.org/wiki/GitHub">click here to know about external and internal linking!</a><br />
+  <a href="file:///C:/Users/dell/OneDrive/Documents/maitri1.html</a>
+ </body>
+</html> 
+                                                                 Q-3
+ <html>
+ <head>
+  <title> ASSIGNMENT MAITRI </title>
+</head>
+<body>
+<table cellpadding="12" cellspacing="12" style="width:80%" align="center" valign="center" border="1">
+<tr>
+  <th>h1</th>
+  <th>h2</th>
+  <th>h3</th>
+  <th>h4</th>
+</tr>
+<tr>
+  <td colspan="3">h1</td>
+  <td rowspan="2" img src="photo.jpg"> </img></td>
+</tr>
+<tr>
+  <td colspan="3">h1</td>
+</tr>
+</table>
+</body>
+</html>
+                                                                 Q-4
+<html>
+<head><title> ASSIGNMENT MAITRI</title>
+</head>
+<body ALIGN=CENTER bgcolor=beige>
+<h1>
+    <P STYLE="color: blue" ALIGN=LEFT >ASSIGNMENT MAITRI
+        </P>
+</h1>
+<p align=left>SIGN AND SIGN IN.</p>
+<H2>SIGNUP FORM</H2>
+<title>
+    QUESTION-4
+</title>
+<TABLE align=center>
+<form action=" " method="get" name="formname">
+
+</form>
+<TR><TD><label>FIRST NAME:</TD><td><input type="text"></label></TD></TR>
+<TR><TD><label>LAST NAME:</TD><TD><input type="text"></label></TD></TR>
+<TR><TD><label>EMAIL ID:</TD><TD><input type="text"></label></TD></TR>
+<TR><TD><label>PASSWORD:</TD><TD><input type="text"></label></TD></TR>
+<TR><TD><label>CONFIRM PASSWORD:</TD><TD> <input type="text"></label></TD>
+<TR><TD><label>GENDER:</TD><TD><input type="radio">MALE<input type="radio">FEMALE</label></TD></TR>
+
+
+<TR><TD><INPUT TYPE="SUBMIT"></TD></TR>
+
+</TABLE>
+
+</body>
+
+
+
+
+</html>
+                                                                      Q-5
+<html>
+<head><title>Practical 5</title></head>
+<body>
+<h1>Practical 5</h1>
+<p>Create an HTML document containig Roll no.,Student's Name, and grades in tabular form</p>
+    <table border="3">
+		<tr>
+	           <th>Roll No.</th>		
+		   <th>Student's Name</th>
+		   <th>Grades</th>
+		</tr>
+		<tr>
+		    <td>1</td>
+	            <td>Ram</td>
+	            <td>A</td>
+		</tr>
+		<tr>
+		    <td>2</td>
+	            <td>Lakshman</td>
+	            <td>A</td>
+		</tr>
+		<tr>
+	            <td>3</td>
+	            <td>Bharat</td>
+	            <td>A</td>
+	        </tr>
+	</table>
+	</body>
+</html
+                                                                       Q-10
+<html>
+    <head><title>ASSIGNMENT MAITRI</title></head>
+    <body>
+        <table border=3>
+            <tr><th align=left><p style="font-size:36px">Subscibe to XYZ News Magazine and Emails</p>
+        <p>Interested in receiving daily small updates of latest News? Well, now you can . And best of all, it is free! Just fill out this form and submit it by clicking the "send it In" button. We will put you on our mailing list and you list receive your first email in 3-5 days. </th></tr>
+            <tr><td>Please fill the following boxes to help us send the emails and our news letter.<br>
+               <form>First Name:<input type="text" name="Name"><br>Last Name:<input type="text" name="Name">
+                <br>Business:<input type="text" name="Name">"
+                <p>We must have a correct e-mail address to send you the news letter.</p>
+                Email:<input type="text" name="Name">
+                <p>How did you hear about XYZ News Magazine and Emails?</p>
+                <input type="radio" id ="x" name="a">
+                <label for="x">Here on the Web</label><input type="radio" id ="x" name="a">
+                <label for="x">In a magazine</label><input type="radio" id ="x" name="a">
+                <label for="x">Television</label><input type="radio" id ="x" name="a">
+                <label for="x">Other</label>
+                <p>Would you like to be on our regular mailing list?</p>
+                <input type="checkbox" id ="x" name="a">
+                    <label for="x">Yes,we love junks emails.</label><BR><BR><HR>
+            <input type="reset">
+                <input type="submit" value="Send it In ">
+               </form></td></tr>
+       
+       
+        </table>
+
+
+    </body>
+</html>
+                                                                           Q-9
+ <html>
+ <head><title>ASSIGNMENT MAITRI<title/>
+</head>
+<frameset rows="*,*,*">
+            <frame src="Department Statistics.html"><br><br>
+            <frame src="Department function list.html"><br><br>
+            <frame src="frame1.html">
+<frameset cols="*,*">
+            <frame src ="frame2.html">
+            <frame src ="frame3.html">
+</frameset>
+</frameset>
+</html>
+                                                                           Q-6
+<html>
+<head> 
+<title>ASSIGNMENT MAITRI</title>
+</head>
+<body> 
+<font size="5">
+This is for illustration of frame <br> 
+<iframe name ="p6" width="90%" height="70%" style="float:right"></frame>
+<p>About<br>
+<a herf ="Department1.html"target="p6">department1</a><br>
+<a herf ="Department2.html"target="p6">department2</a><br>
+<a herf ="Department3.html"target="p6">department3</a><br>
+</font>
+</body>
+</html>
